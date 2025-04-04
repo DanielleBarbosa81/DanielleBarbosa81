@@ -1,5 +1,5 @@
 ## Hi there 👋
-![tecnologia](c://imagens/tecnologia.png)
+![tecnologia](c:\imagens\tecnologia.png)
 
 
 <!--
