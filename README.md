@@ -1,4 +1,6 @@
 ## Hi there 👋
+![tecnologia](c://imagens/tecnologia.png)
+
 
 <!--
 **DanielleBarbosa81/DanielleBarbosa81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
