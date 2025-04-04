@@ -8,7 +8,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, inovação e resolver problema
 ## 🚀 Sobre Mim
 
 - 🌍 Localização: Recife, Pernambuco MEU PAÍS 
-- 🎓 Formação: DECOLA TECH 2025, DEV.FULL STACK FUCTURA TECNOLOGIA , Graduanda em Arquitetura de Dados - Anhanguera Educacional
+- 🎓 Formação: DECOLA TECH 2025, Bradesco JAVA CLOUD NATIVE, DEV.FULL STACK FUCTURA TECNOLOGIA , Graduanda em Arquitetura de Dados - Anhanguera Educacional
 - 🚀😊 Cientista nas horas vagas ! 
 - 🌱 Atualmente aprofundando conhecimentos em: SPRING BOOT e ANGULAR
 
@@ -18,10 +18,10 @@ Sou uma desenvolvedora apaixonada por tecnologia, inovação e resolver problema
 
 ## 🛠️ Tecnologias e Ferramentas
 
-JAVA
-SPRING BOOT 
-ANGULAR
-TYPESCRIPT
+JAVA,
+SPRING BOOT,
+ANGULAR,
+TYPESCRIPT,
 VERSIONAMENTO DE CÓDIGO COM GIT E GITHUB 
 
 ---
