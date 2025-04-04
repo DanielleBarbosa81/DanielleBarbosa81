@@ -1,18 +1,41 @@
 ## Hi there 👋
-![tecnologia](C:\Users\danie\OneDrive\Imagens\tecnologia.png)
 
 
-<!--
-**DanielleBarbosa81/DanielleBarbosa81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia, inovação e resolver problemas. Tenho experiência em JAVA, Framework SPRING BOOT e ANGULAR, com foco em criar soluções práticas e impactantes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+
+- 🌍 Localização: Recife, Pernambuco MEU PAÍS 
+- 🎓 Formação: DECOLA TECH 2025, DEV.FULL STACK FUCTURA TECNOLOGIA , Graduanda em Arquitetura de Dados
+- 🌱 Atualmente aprofundando conhecimentos em: SPRING BOOT e ANGULAR
+
+
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+JAVA
+SPRING BOOT 
+ANGULAR
+TYPESCRIPT
+VERSIONAMENTO DE CÓDIGO COM GIT E GITHUB 
+
+---
+
+
+## 🌐 Onde me encontrar?
+
+- [LinkedIn](https://www.linkedin.com/in/danielle-barbosa-dev-java)  
+
+- ✉️ Email: daniellebarbosa.ti81@gmail.com
+
+---
+
+*🚀 Sempre aberto a colaborar e aprender mais! Sinta-se à vontade para explorar meus projetos e entrar em contato!*
+
+
+
+
