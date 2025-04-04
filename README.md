@@ -35,7 +35,7 @@ VERSIONAMENTO DE CÓDIGO COM GIT E GITHUB
 
 ---
 
-*🚀 Sempre aberto a colaborar e aprender mais! Sinta-se à vontade para explorar meus projetos e entrar em contato!*
+*🚀 Sempre aberta a colaborar e aprender mais! Sinta-se à vontade para explorar meus projetos e entrar em contato!*
 
 
 
