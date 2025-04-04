@@ -8,7 +8,8 @@ Sou uma desenvolvedora apaixonada por tecnologia, inovação e resolver problema
 ## 🚀 Sobre Mim
 
 - 🌍 Localização: Recife, Pernambuco MEU PAÍS 
-- 🎓 Formação: DECOLA TECH 2025, DEV.FULL STACK FUCTURA TECNOLOGIA , Graduanda em Arquitetura de Dados
+- 🎓 Formação: DECOLA TECH 2025, DEV.FULL STACK FUCTURA TECNOLOGIA , Graduanda em Arquitetura de Dados - Anhanguera Educacional
+- 🚀😊 Cientista nas horas vagas ! 
 - 🌱 Atualmente aprofundando conhecimentos em: SPRING BOOT e ANGULAR
 
 
