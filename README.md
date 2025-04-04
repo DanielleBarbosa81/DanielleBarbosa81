@@ -1,7 +1,7 @@
 ## Olá 👋
 
 
-Sou uma desenvolvedora apaixonada por tecnologia, inovação e resolver problemas. Tenho experiência em JAVA, Framework SPRING BOOT e ANGULAR, com foco em criar soluções práticas e impactantes.
+Sou uma desenvolvedora apaixonada por tecnologia, inovação e resolução problemas. Tenho experiência em JAVA, Framework SPRING BOOT e ANGULAR, com foco em criar soluções práticas e impactantes.
 
 ---
 
