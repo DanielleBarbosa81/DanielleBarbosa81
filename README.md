@@ -55,7 +55,7 @@ Postman
 
 Docker (básico)
 
-VERSIONAMENTO DE CÓDIGO COM GIT E GITHUB 
+ 
 
 
 🧠 Projetos em Destaque
