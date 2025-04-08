@@ -1,30 +1,74 @@
 ## Olá 👋
-
-
-Sou uma desenvolvedora apaixonada por tecnologia, inovação e resolução problemas. Tenho experiência em JAVA, Framework SPRING BOOT e ANGULAR, com foco em criar soluções práticas e impactantes.
-
----
+💼 Portfólio Profissional
 
 ## 🚀 Sobre Mim
+Sou uma desenvolvedora Full Stack apaixonada por transformar ideias em soluções eficientes. Com sólida formação técnica e experiência prática adquirida em bootcamps intensivos, atuo com foco em desenvolvimento web moderno, utilizando Java com Spring Boot no backend e Angular no frontend.
+
+Atualmente curso Arquitetura de Dados, aprofundando minha visão analítica e estrutural sobre sistemas escaláveis. Meu objetivo é integrar times inovadores, contribuir com soluções de impacto e crescer tecnicamente em ambientes desafiadores.
 
 - 🌍 Localização: Recife, Pernambuco MEU PAÍS 
-- 🎓 Formação: DECOLA TECH 2025, Bradesco JAVA CLOUD NATIVE, DEV.FULL STACK FUCTURA TECNOLOGIA , Graduanda em Arquitetura de Dados - Anhanguera Educacional
 - 🚀😊 Cientista nas horas vagas ! 
-- 🌱 Atualmente aprofundando conhecimentos em: SPRING BOOT e ANGULAR
 
 
+🎓 Formação Acadêmica
+Graduanda em Arquitetura de Dados
+Anhanguera – Previsão de conclusão: 06/2026
+
+Bootcamp Decola Tech 2025 – Avanade e DIO
+Desenvolvimento Full Stack com foco em Java, Spring Boot, Angular, APIs REST, Git e Metodologias Ágeis.
+
+Bootcamp Java Bradesco – DIO
+Fundamentos de Java, orientação a objetos, estrutura de dados e práticas modernas de desenvolvimento back-end.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+🛠️ Tecnologias e Habilidades
+Back-End:
 
-JAVA,
-SPRING BOOT,
-ANGULAR,
-TYPESCRIPT,
+Java (OOP, Streams, Collections)
+
+Spring Boot (JPA, Security, Web, Data)
+
+APIs RESTful
+
+Hibernate
+
+Banco de Dados: PostgreSQL, MySQL
+
+Front-End:
+
+Angular
+
+TypeScript
+
+HTML5, CSS3
+
+Consumo de APIs
+
+Dev Tools:
+
+Git / GitHub
+
+Maven
+
+Postman
+
+Docker (básico)
+
 VERSIONAMENTO DE CÓDIGO COM GIT E GITHUB 
 
----
+
+🧠 Projetos em Destaque
+Barbearia Full Stack
+
+💼 Por que me chamar?
+Entrego projetos com foco em boas práticas, clareza de código e performance.
+
+Tenho resiliência, proatividade e adaptação rápida, validadas nos bootcamps e projetos.
+
+Estou em constante evolução, sempre buscando novos desafios e aprendizado técnico.
+
+Pronta para atuar tanto no back quanto no front com versatilidade e segurança.
 
 
 ## 🌐 Onde me encontrar?
