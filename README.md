@@ -1,5 +1,5 @@
 ## Olá 👋
-💼 Portfólio Profissional
+
 
 ## 🚀 Sobre Mim
 Sou uma desenvolvedora Full Stack apaixonada por transformar ideias em soluções eficientes. Com sólida formação técnica e experiência prática adquirida em bootcamps intensivos, atuo com foco em desenvolvimento web moderno, utilizando Java com Spring Boot no backend e Angular no frontend.
