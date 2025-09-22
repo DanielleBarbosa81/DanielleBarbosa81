@@ -31,6 +31,12 @@ Spring Boot (JPA, Security, Web, Data)
 
 APIs RESTful
 
+Dotnet C#
+
+Entity Framework
+
+Unity 3D
+
 Hibernate
 
 Banco de Dados: PostgreSQL, MySQL
