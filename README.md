@@ -31,7 +31,7 @@ Spring Boot (JPA, Security, Web, Data)
 
 APIs RESTful
 
-Dotnet C#
+.Net C#
 
 Entity Framework
 
